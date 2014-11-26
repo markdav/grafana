@@ -1,0 +1,4 @@
+Commandline for Grafana:
+
+http://192.168.10.5/static/grafana/index.html#/dashboard/file/openstack.json?token=f8952bfaad9b44c8b41a2439776a5bed&api=http:%2F%2F192.168.10.4:8080%2Fv2.0
+
