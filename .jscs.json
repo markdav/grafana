@@ -5,7 +5,7 @@
     "disallowMixedSpacesAndTabs": true,
     "disallowTrailingWhitespace": true,
     "requireSpacesInFunctionExpression": {
-        "beforeOpeningCurlyBrace": true
+        "beforeOpeningCurlyBrace": false
     },
     "disallowSpacesInsideArrayBrackets": true,
     "disallowSpacesInsideParentheses": true,
